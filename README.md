@@ -1,7 +1,8 @@
 # Bombe: Phishing Website Generator
-**DISCLAIMER** this software was made only for educational purposes.
+⛔ **DISCLAIMER** this software was made only for educational purposes.
 Please, don't use it un-ethically. I'm not responsible for any consequences.
-**NOTE** Bombe works for simple action based HTML forms.
+
+📔 **NOTE** Bombe works for simple action based HTML forms.
 
 ## Usage
 To generate the malicious HTML file:
@@ -16,4 +17,4 @@ To host the webapp (via Flask):
 ```
 $ python webserver.py <REDIRECT_URL>
 ```
-_**<REDIRECT_URL>** --- The website which we want to redirect to after we logged the data_
+_**<REDIRECT_URL>** —— The website which we want to redirect to after we logged the data_
