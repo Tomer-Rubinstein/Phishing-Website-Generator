@@ -1,5 +1,5 @@
 # Bombe: Phishing Website Generator
-⛔ **DISCLAIMER:**this software was made only for educational purposes.
+⛔ **DISCLAIMER:** this software was made only for educational purposes.
 Please, don't use it un-ethically. I'm not responsible for any consequences.
 
 📔 **NOTE:** Bombe works for simple action based HTML forms.
