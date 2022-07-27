@@ -16,7 +16,8 @@ def index():
 def log():
   global redirectUrl
   data = request.form
-  
+  print(data)
+
   with open("log.txt", "a+") as f:
     f.write(str(data)+"\n")
     f.close()
